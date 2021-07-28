@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @MShaakir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to rea
+- 👀 I’m interested in learning how to program/code
+- 🌱 I’m currently learning Web dev. "Js, HTML, CSS, & flask"
+- 💞️ I’m looking to collaborate on every programmer who is willing to help.
+- 📫 You can reach me:https://www.facebook.com/mohamed.mohamudabdalla
 
-<!---
-MShaakir/MShaakir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
